@@ -1,0 +1,8 @@
+{
+    "id" : "sythez",
+    "comment" : "Joel",
+    "home" : "/home/sythez",
+    "shell" : "/bin/bash",
+    "groups" : ["dev", "sysadmin", "wheel"],
+    "ssh_keys" : "ssh-rsa[ AAAAB3NzaC1yc2EAAAADAQABAAABgQDxPtcy9rj/PFxVv8Sa0Gano6ITnLkLrSeOQUWWizBA5+v2Wj2Gf9o2e/dJNc0/DGfv9vy+MgwZ5h0q7pHMoZGdxt/YF8woySrPzZ8xhLHiDRiEdEBgZtxwJ2fIxTZbrvnHAFUJM12MhKV+gEExTg41Zc7sm9EoRCeL7H+4doLA1yLprGJ5cSIKZ4H/hNLYkgAxQjXu7cTcBohR6aWbme4k3Hfk7Pd5gsW4dcz2OYvlNnFpi1KdJlKhioUS9rOmME6yUgVAqptLBSFNPV9rPhjrTV3R+GyvycWjEHcZPe6DixRMOgWYJ0S6l9vfVS9bnWZG2tVMBK9bcNtShKHvwVTi5YEjCMp6nZsq0UgVTHhKRfDlM8qzE5LPOPbhIsHfgObgr/rSPomCzmj1rtA9SJkBFbrHA42DvQn5YAH6BSIVBukZZrcCg1sA5l+OVYC/MWgeW7AFbtSnxQ/caHrjuy0OrC/iTXsKv+6bOfCcmWh6yrlD1ADmuYEDsuv3882sXrE= sythez"
+}
