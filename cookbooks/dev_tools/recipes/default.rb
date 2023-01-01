@@ -7,3 +7,4 @@
 package 'python3' do
   puts "Hey this fired"
 end
+puts "Did the recipe run?"
