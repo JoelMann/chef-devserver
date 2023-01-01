@@ -4,7 +4,5 @@
 #
 # Copyright:: 2022, The Authors, All Rights Reserved.
 
-package 'python3' do
-  puts "Hey this fired"
-end
-puts "Did the recipe run?"
+package 'git'
+package 'python3'
